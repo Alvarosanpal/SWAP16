@@ -1,8 +1,12 @@
 #PRÁCTICA 2
 
-Al principio de la práctica se instala el rsync, ejecutando el comando "apt-get install rsync"
+Al principio de la práctica se instala el rsync, ejecutando el comando "apt-get install rsync".
 
-IMAGEN
+![imagen](InstalacionRsync.png)
 
-Después probamos el funcionamiento del rsync clonando la carpeta de la máquina 1 a la maq
+Después probamos el funcionamiento del rsync clonando la carpeta /var/www/ de la máquina principal a la máquina secundaria.
+
+![imagen](ComandoRsync.png)
+
+
 
