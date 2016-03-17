@@ -1,0 +1,21 @@
+PREGUNTAS TIPO TEST PARA EL TEMA 1:
+
+-------------------------------------------------------------------------------
+<pregunta>
+  <enunciado>Si poseemos un sistema con 3 servidores de un 99 por ciento de disponibilidad, ¿Cuanto podrá estar caido el sistema en total aproximadamente?
+  </enunciado>
+  <opcionA>3 días.</opcionA>
+  <opcionB>7 días.</opcionB>
+  <opcionC>11 días.</opcionC>
+  <opcionD>15 días.</opcionD>
+  <solucion>C</solucion>
+</pregunta>
+-------------------------------------------------------------------------------
+<pregunta>
+  <enunciado>¿En que consiste el escalado vertical?</enunciado>
+  <opcionA>Hacer redundancia de las máquinas de los servicios de web.</opcionA>
+  <opcionB>Duplicar los componentes del sistema excepto el router.</opcionB>
+  <opcionC>Aumentar la CPU, la RAM y el disco de servidor.</opcionC>
+  <opcionD>La A y la B son correctas.</opcionD>
+  <solucion>C</solucion>
+</pregunta>
