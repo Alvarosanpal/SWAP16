@@ -1,0 +1,21 @@
+PREGUNTAS TIPO TEST PARA EL TEMA 1:
+
+-------------------------------------------------------------------------------
+<pregunta>
+  <enunciado>¿Cual es la principal solucion para un sitio web mal planificado?
+  </enunciado>
+  <opcionA>Usar un almacenamiento adecuado.</opcionA>
+  <opcionB>Configurar cortafuegos eficaces.</opcionB>
+  <opcionC>Aumentar el numero de maquinas que dan servicios.</opcionC>
+  <opcionD>Disminuir el numero de accesos</opcionD>
+  <solucion>C</solucion>
+</pregunta>
+-------------------------------------------------------------------------------
+<pregunta>
+  <enunciado>¿En que consiste un sistema escalable?</enunciado>
+  <opcionA>Arreglar los problemas de forma facil y rapida.</opcionA>
+  <opcionB>Soportar un aumento significativo de usuarios.</opcionB>
+  <opcionC>Tener un hardware de calidad y actualizado.</opcionC>
+  <opcionD>Poseer máquinas duplicadas para ciertos servicios.</opcionD>
+  <solucion>B</solucion>
+</pregunta>
