@@ -1,0 +1,20 @@
+PREGUNTAS TIPO TEST PARA EL TEMA 3:
+
+-------------------------------------------------------------------------------
+<pregunta>
+  <enunciado>¿Que significa BlackBone?</enunciado>
+  <opcionA>Es un Framework de JavaScript.</opcionA>
+  <opcionB>Es el eje principal de enlace entre máquinas.</opcionB>
+  <opcionC>Es una zona restringida y totalmente controlada.</opcionC>
+  <opcionD>Conjunto de redes seguras externas.</opcionD>
+  <solucion>B</solucion>
+</pregunta>
+-------------------------------------------------------------------------------
+<pregunta>
+  <enunciado>Los servidores conectados al front-rail pueden usar los protocolos...</enunciado>
+  <opcionA>TCP, UDP...</opcionA>
+  <opcionB>RIP, OSPF...</opcionB>
+  <opcionC>SMTP, FTP...</opcionC>
+  <opcionD>Ninguna de las anteriores.</opcionD>
+  <solucion>C</solucion>
+</pregunta>
