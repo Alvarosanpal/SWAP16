@@ -56,6 +56,10 @@ A continuación adjunto la captura de la prueba del correcto funcionamiento de e
 
 ![imagen] (BalanceoPeticionHaproxy.png)
 
+Aqui meto una captura de como se vería la petición realizada en en el navegador Google Chrome:
+
+![imagen] (PeticionNavegador.png)
+
 ###Fin de la Práctica 3.
 
 
