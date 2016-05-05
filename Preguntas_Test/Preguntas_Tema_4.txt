@@ -1,0 +1,20 @@
+PREGUNTAS TIPO TEST PARA EL TEMA 4:
+
+-------------------------------------------------------------------------------
+<pregunta>
+  <enunciado>¿Que es lo que NO puede hacer un balanceador?</enunciado>
+  <opcionA>Es un puente entre la red y los servidores finales.</opcionA>
+  <opcionB>Puede manejar los protocolos de alto nivel.</opcionB>
+  <opcionC>Puede dar los servicios requeridos por los clientes.</opcionC>
+  <opcionD>Puede manejar los protocolos de nivel de red.</opcionD>
+  <solucion>C</solucion>
+</pregunta>
+-------------------------------------------------------------------------------
+<pregunta>
+  <enunciado>Cual de las opciones NO es un algoritmo de balanceo de carga:</enunciado>
+  <opcionA>Balanceo basado en tiempo de respuesta.</opcionA>
+  <opcionB>Balanceo basado en prioridad.</opcionB>
+  <opcionC>Balanceo basado en ponderación.</opcionC>
+  <opcionD>Las 3 opciones son algoritmos de balanceo.</opcionD>
+  <solucion>D</solucion>
+</pregunta>
