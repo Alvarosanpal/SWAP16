@@ -1,0 +1,20 @@
+PREGUNTAS TIPO TEST PARA EL TEMA 7:
+
+-------------------------------------------------------------------------------
+<pregunta>
+  <enunciado>¿En que consiste la ampliación vertical?</enunciado>
+  <opcionA>No existe dicha amplicación.</opcionA>
+  <opcionB>Actualizar el hardware y mejorar su velocidad.</opcionB>
+  <opcionC>Replicar las máquinas de algun servicio.</opcionC>
+  <opcionD>Son correctas la A y la B.</opcionD>
+  <solucion>B</solucion>
+</pregunta>
+-------------------------------------------------------------------------------
+<pregunta>
+  <enunciado>Dispositivo que actúa como un servidor de almacenamiento de ficheros:</enunciado>
+  <opcionA>SAN</opcionA>
+  <opcionB>NAS</opcionB>
+  <opcionC>SSA</opcionC>
+  <opcionD>Ninguna de las anteriores.</opcionD>
+  <solucion>B</solucion>
+</pregunta>
