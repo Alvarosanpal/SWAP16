@@ -1,0 +1,20 @@
+PREGUNTAS TIPO TEST PARA EL TEMA 5:
+
+-------------------------------------------------------------------------------
+<pregunta>
+  <enunciado>Para el tráfico UDP:</enunciado>
+  <opcionA>El límite de conexiones es mayor que para el de tráfico TCP.</opcionA>
+  <opcionB>El límite de conexiones es menor que para el tráfico TCP.</opcionB>
+  <opcionC>El límite de conexiones es aproximadamente igual que para el tráfico TCP.</opcionC>
+  <opcionD>Ninguna de las anteriores es correcta.</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+-------------------------------------------------------------------------------
+<pregunta>
+  <enunciado>El rendimiento es la métrica mas importante de:</enunciado>
+  <opcionA>HTTP</opcionA>
+  <opcionB>FTP</opcionB>
+  <opcionC>HttPerf</opcionC>
+  <opcionD>Ninguna de las anteriores</opcionD>
+  <solucion>B</solucion>
+</pregunta>
