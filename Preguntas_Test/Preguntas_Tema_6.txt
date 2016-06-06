@@ -1,0 +1,20 @@
+PREGUNTAS TIPO TEST PARA EL TEMA 6:
+
+-------------------------------------------------------------------------------
+<pregunta>
+  <enunciado>¿Que mensajes pasan por el cortafuegos?</enunciado>
+  <opcionA>Todos los que entran.</opcionA>
+  <opcionB>Parte de los que entran.</opcionB>
+  <opcionC>Todos los que salen.</opcionC>
+  <opcionD>Todos los que entran y los que salen.</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+-------------------------------------------------------------------------------
+<pregunta>
+  <enunciado>¿Que hace el cortafuegos?</enunciado>
+  <opcionA>Registra todas las acciones de dudosa intención.</opcionA>
+  <opcionB>Prohibe el acceso sin autorizar.</opcionB>
+  <opcionC>Se abre camino entre las partes de una granja web.</opcionC>
+  <opcionD>Ninguna de las anteriores es correcta.</opcionD>
+  <solucion>B</solucion>
+</pregunta>
