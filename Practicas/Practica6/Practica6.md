@@ -30,11 +30,11 @@ Ya está el raid configurado, ahora modificaremos el archivo /etc/fstab para que
 Hasta aqui la configuración del RAID, ahora adjuntaré tres capturas, referentes al fallo en el disco, la retirada "en caliente" del disco
 y la nueva agregación del mismo.
 
-![imagen](FalloSDB.png)
+![imagen](FalloSBD.png)
 
-![imagen](BorrarSDB.png)
+![imagen](BorrarSDC.png)
 
-![imagen](AgregarSDB.png)
+![imagen](AgregarSDC.png)
 
 A continuación dos capturas, ambas muestran la informacion del dispositivo MD0, la primera es cuando los dos discos estaban en funcionamiento,
 la segunda es despues de haber simulado el fallo en uno de los discos y haberlo eliminado:
